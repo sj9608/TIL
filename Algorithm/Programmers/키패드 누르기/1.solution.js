@@ -34,7 +34,7 @@ const solution = (numbers, hand) => {
     if (numbers[index] % 3 === 1) {
       answer += "L";
       left = numberPad[numbers[index]];
-    } else if (numbers[index] % 3 === 0) {
+    } else if (numbers[index] % 3 === 0 && numbers[index] !== 0) {
       answer += "R";
       right = numberPad[numbers[index]];
     } else {
@@ -57,9 +57,3 @@ const solution = (numbers, hand) => {
 
   return answer;
 };
-
-const main = () => {
-  console.log(solution(numbers, hand));
-};
-
-main();
