@@ -4,8 +4,6 @@
 
 ## Categories
 
-[Algorithm](./Algorithm)
-
 [HTTP](./HTTP)
 
 [Javascript](./Javascript)
