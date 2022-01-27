@@ -116,3 +116,10 @@ Java Bean 과 관련된 태그들
 // expected output : "2021001"
 ```
 
+
+
+
+
+출처 
+
+* https://velog.io/@ye050425/JSP-JSP-Action-Tags-%EC%A0%95%EB%A6%AC
