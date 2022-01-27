@@ -51,5 +51,8 @@ spring.thymeleaf.prefix=file:src/main/resources/templates/
 1. `⌘ + ,` (preferences)
 2. Build, Execution, Deployment > Compiler
 3. **Bulid project automatically**
+3. **Allow auto-make to start even if developed application is running** 체크 (Intelli j 2021 이후)
 
 ![image](https://user-images.githubusercontent.com/52594760/151317302-185ac387-7f6e-4c35-91ee-f7eef9f9536f.png)
+
+![image](https://user-images.githubusercontent.com/52594760/151324376-8f3c93d3-9153-4a01-a2e1-c1799391f2eb.png)
