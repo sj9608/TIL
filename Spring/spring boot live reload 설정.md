@@ -32,6 +32,7 @@ compile "org.springframework.boot:spring-boot-devtools"
 ```xml
 <!-- application.properties -->
 
+<!-- live reload default setting -->
 spring.devtools.livereload.enabled=true
 
 <!-- img, css, js 등-->
