@@ -1,5 +1,13 @@
 # Java (JDK) 버전 변경 (Mac )
 
+## 0. java 설치
+
+https://www.azul.com/downloads/?os=macos&architecture=arm-64-bit&package=jdk
+
+사용환경에 맞게 설치하면 된다. m1의 경우 arm64 아키텍쳐 파일 다운로드
+
+
+
 ## 1. 사용중인 java 버전 확인
 
 ```bash
