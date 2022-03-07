@@ -49,8 +49,12 @@ Matching Java Virtual Machines (3):
 사용 할 버전을 다음과 같이 입력한다.
 
 ```bash
-export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
-source ~/.bash_profile
+# .zshrc
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home
+export PATH=${PATH}:$JAVA_HOME/bin
+
+source ~/.zshrc
 ```
 
 
